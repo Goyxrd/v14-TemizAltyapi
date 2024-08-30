@@ -1,0 +1,15 @@
+{
+  "name": "v14-TemizAltyapi",
+  "version": "2.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": ["Goyxrd","Valenti"],
+  "author": "",
+  "license": "ISC",
+  "description": "Goyxrd",
+  "dependencies": {
+    "discord.js": "^14.15.3"
+  }
+}
